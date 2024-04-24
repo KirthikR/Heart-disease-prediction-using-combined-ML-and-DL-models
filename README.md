@@ -1,6 +1,6 @@
 # Heart Disease Prediction using Combined ML and DL Models
 
-![Heart Disease](https://stock.adobe.com/images/myocardial-infarction/259840633)
+![Heart Disease](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.victorchang.edu.au%2Fheart-disease&psig=AOvVaw3pOzwIPGkYgXLchdLB3heZ&ust=1714089497051000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC0gZaH3IUDFQAAAAAdAAAAABAJ)
 
 ## Description
 
