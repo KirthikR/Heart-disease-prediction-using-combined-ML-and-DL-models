@@ -1,6 +1,6 @@
 # Heart Disease Prediction using Combined ML and DL Models
 
-![Heart Disease](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dheart%2Bdisease&psig=AOvVaw0izpUs3AGKJyX0nkvzlw_m&ust=1714088739388000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC12NeE3IUDFQAAAAAdAAAAABAE)
+![Heart Disease](C:\Users\hirthik\Downloads\heart disease.jpg)
 
 ## Description
 
