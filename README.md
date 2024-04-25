@@ -9,7 +9,7 @@ This project aims to develop a predictive model for heart disease using a combin
 1. **Data Collection**: Utilizes two datasets containing relevant features such as age, gender, cholesterol levels, blood pressure, and presence of heart disease.
 2. **Data Preprocessing**: Performs data cleaning, handling missing values, and feature engineering to prepare the datasets for model training.
 3. **Model Development**:
-    - **Machine Learning Models**: Employs traditional ML algorithms such as decision trees, random forests, Multilayer perceptron, Voting classifier(cv) and support vector machines (SVM) based on the UCI Heart Disease dataset.
+    - **Machine Learning Models**: Employs traditional ML algorithms such as decision trees, random forests, Multilayer perceptron, Voting classifier(CV) and support vector machines (SVM) based on the UCI Heart Disease dataset.
     - **Deep Learning Models**: Utilizes neural network architectures including feedforward neural networks, convolutional neural networks (CNN), and recurrent neural networks (RNN) using the Heart Disease dataset.
 4. **Model Evaluation**: Evaluates the performance of both ML and DL models using appropriate evaluation metrics such as accuracy, precision, recall, F1-score, and area under the ROC curve (AUC-ROC).
 5. **Model Integration**: Combines the predictions from the ML and DL models to create an ensemble model, improving overall prediction accuracy.
