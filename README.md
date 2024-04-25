@@ -1,6 +1,6 @@
 # Heart Disease Prediction using Combined ML and DL Models
 
-![Heart Disease](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.victorchang.edu.au%2Fheart-disease&psig=AOvVaw3pOzwIPGkYgXLchdLB3heZ&ust=1714089497051000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC0gZaH3IUDFQAAAAAdAAAAABAJ)
+![Heart Disease](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newsinheadlines.com%2Fheart-attack-symptoms-heart-attack-does-not-come-immediately-these-symptoms-appear-months-ago%2F&psig=AOvVaw1DxxX6ESkwD_1q5EHBqMvU&ust=1714089753559000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiAsJGI3IUDFQAAAAAdAAAAABAQ)
 
 ## Description
 
