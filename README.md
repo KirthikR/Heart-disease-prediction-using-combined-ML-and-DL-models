@@ -1,7 +1,5 @@
 # Heart Disease Prediction using Combined ML and DL Models
 
-![Heart Disease](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newsinheadlines.com%2Fheart-attack-symptoms-heart-attack-does-not-come-immediately-these-symptoms-appear-months-ago%2F&psig=AOvVaw1DxxX6ESkwD_1q5EHBqMvU&ust=1714089753559000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiAsJGI3IUDFQAAAAAdAAAAABAQ)
-
 ## Description
 
 This project aims to develop a predictive model for heart disease using a combination of machine learning (ML) and deep learning (DL) techniques. By leveraging two well-known datasets - the UCI Heart Disease dataset and the Heart Disease dataset - the goal is to improve the accuracy and reliability of predictions, aiding in early detection and prevention of heart disease.
